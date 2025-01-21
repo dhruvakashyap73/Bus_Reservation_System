@@ -1,7 +1,8 @@
 # Bus_Reservation_System
+# Summary of Features:
 
-1. Summary of Features:
-View Bus List: Displays details of three buses (SAPTAGIRI EXPRESS, RAJGOPAL TRAVELS, WILMAR ROAD LINES) with seat availability for each.
+1. View Bus List:
+Displays details of three buses (SAPTAGIRI EXPRESS, RAJGOPAL TRAVELS, WILMAR ROAD LINES) with seat availability for each.
 
 2. Ticket Booking:
 Users can select a bus, choose seats, enter personal details, and complete payment.
