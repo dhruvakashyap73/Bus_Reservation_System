@@ -9,7 +9,7 @@ Displays details of three buses (SAPTAGIRI EXPRESS, RAJGOPAL TRAVELS, WILMAR ROA
 
 2. Ticket Booking:
 Users can select a bus, choose seats, enter personal details, and complete payment.
-Keeps track of booked seats using arrays (a, b, c).
+Keeps track of booked seats using arrays.
 
 3. Cancel Booking:
 Allows users to cancel tickets for a specific bus and seat.
