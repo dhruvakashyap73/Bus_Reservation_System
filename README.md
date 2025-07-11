@@ -1,4 +1,7 @@
 # Bus_Reservation_System
+A console-based bus reservation system that allows users to view bus details, book tickets, cancel bookings, and
+check ticket status.
+
 # Summary of Features:
 
 1. View Bus List:
